@@ -1,0 +1,6 @@
+.cog/
+__pycache__/
+diffusers-cache/
+stable-diffusion-v1-4/
+*.png
+model/
