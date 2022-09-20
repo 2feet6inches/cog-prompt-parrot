@@ -19,3 +19,5 @@ curl http://localhost:11111/predictions -X POST -H "Content-Type: application/js
 }}'
 ```
 
+### How to create your model
+https://twitter.com/KyrickYoung/status/1571296599111761923
